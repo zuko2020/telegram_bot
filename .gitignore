@@ -1,0 +1,6 @@
+.idea/
+venv/
+credentials.py
+__pycahe__/
+*.pyc
+dcgc_channels.db
